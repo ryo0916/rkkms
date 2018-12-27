@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ryo0916.github.io/rkkms/blog/20181227/</loc>
+    <lastmod>2018-12-27T20:43:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryo0916.github.io/rkkms/portfolio/</loc>
+    <lastmod>2018-12-16T21:15:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryo0916.github.io/rkkms/about/</loc>
+    <lastmod>2018-12-16T21:15:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryo0916.github.io/rkkms/blog/</loc>
+    <lastmod>2018-12-27T20:43:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryo0916.github.io/rkkms/</loc>
+    <lastmod>2018-12-27T20:43:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryo0916.github.io/rkkms/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryo0916.github.io/rkkms/tags/%E8%AA%AD%E3%81%BF%E7%89%A9/</loc>
+    <lastmod>2018-12-27T20:43:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RKkm&#39;s</title>
+    <link>https://ryo0916.github.io/rkkms/</link>
+    <description>Recent content on RKkm&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Dec 2018 20:43:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://ryo0916.github.io/rkkms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>本サイトを作成しました</title>
+      <link>https://ryo0916.github.io/rkkms/blog/20181227/</link>
+      <pubDate>Thu, 27 Dec 2018 20:43:57 +0900</pubDate>
+      
+      <guid>https://ryo0916.github.io/rkkms/blog/20181227/</guid>
+      <description>ご覧いただき、ありがとうございます。 初めまして、@ryokkmです。 このサイトはHugoを用いて、テーマから作成しました。 これから、プログラ</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://ryo0916.github.io/rkkms/portfolio/</link>
+      <pubDate>Sun, 16 Dec 2018 21:15:27 +0900</pubDate>
+      
+      <guid>https://ryo0916.github.io/rkkms/portfolio/</guid>
+      <description>作成中です。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ryo0916.github.io/rkkms/about/</link>
+      <pubDate>Sun, 16 Dec 2018 21:15:26 +0900</pubDate>
+      
+      <guid>https://ryo0916.github.io/rkkms/about/</guid>
+      <description>このサイトについて 本サイトをご覧いただき、ありがとうございます。 @ryokkmと申します。 このサイトはWeb系企業へエンジニア職に転職するた</description>
+    </item>
+    
+  </channel>
+</rss>
