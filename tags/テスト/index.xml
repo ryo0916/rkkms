@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>テスト on RKkm&#39;s</title>
+    <link>https://ryo0916.github.io/rkkms/tags/%E3%83%86%E3%82%B9%E3%83%88/</link>
+    <description>Recent content in テスト on RKkm&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Dec 2018 20:43:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://ryo0916.github.io/rkkms/tags/%E3%83%86%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>本サイトを作成しました</title>
+      <link>https://ryo0916.github.io/rkkms/blog/20181227/</link>
+      <pubDate>Thu, 27 Dec 2018 20:43:57 +0900</pubDate>
+      
+      <guid>https://ryo0916.github.io/rkkms/blog/20181227/</guid>
+      <description>ご覧いただき、ありがとうございます。 初めまして、@ryokkmです。 このサイトはHugoを用いて、テーマから作成しました。 これから、プログラ</description>
+    </item>
+    
+  </channel>
+</rss>
