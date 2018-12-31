@@ -274,6 +274,7 @@ footer {
 /* 画面サイズが600px以下の場合に適用 */
 
   body {
+    width: auto;
     font-size: 3.5vw;
   }
 
@@ -326,7 +327,6 @@ footer {
   }
 
   .topic-pic {
-    width: auto;
     float: left;
     padding: 3% 0 2% 0;
     margin: auto 3% auto 4%;
@@ -336,7 +336,7 @@ footer {
     padding: 1% 0 2% 0;
     margin-top: auto;
     margin-bottom: auto;
-    width: 63%;
+    width: auto;
     float: left;
   }
 
@@ -351,10 +351,22 @@ footer {
 
   #blog-title {
     font-size: 4.8vw;
+    padding: 0;
   }
 
   #tags {
     display: inline-block;
+  }
+
+  #tag-part a {
+    display: inline-block;
+    max-width: auto;
+    height: auto;
+    line-height: auto;
+    padding: 0 1em;
+    margin: 0;
+    font-size: 3vw;
+    text-decoration: none;
   }
 
   #contents {
