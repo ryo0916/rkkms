@@ -289,6 +289,18 @@ footer {
     vertical-align: sub;
   }
 
+  .top-menu-button a:hover {
+    box-shadow: none;
+  }
+
+  #main-nav li a:hover {
+    box-shadow: none;
+  }
+
+  #top-wrap a {
+    text-decoration: none;
+  }
+
   #logo {
     font-size: 7vw;
     float: none;
@@ -398,7 +410,7 @@ footer {
   }
 
   .top-menu li {
-    margin: 0 2%;
+    margin: 0 1%;
   }
 
   footer {
